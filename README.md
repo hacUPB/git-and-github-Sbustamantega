@@ -1,3 +1,54 @@
+
+# Bitacora
+
+Santiago Bustamante
+
+ID:000415198
+
+## contenido:
+
+| Enlace | Descripcion |
+---------|--------------
+[uso de la consola](./docs/uso_consola.md)| en el archivo se describen los principales comandos usados en git bash
+[repositorio local](./docs/repositorio_local.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
