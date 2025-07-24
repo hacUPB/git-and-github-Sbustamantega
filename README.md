@@ -9,8 +9,9 @@ ID:000415198
 
 | Enlace | Descripcion |
 ---------|--------------
-[uso de la consola](./docs/uso_consola.md)| en el archivo se describen los principales comandos usados en git bash
-[repositorio local](./docs/repositorio_local.md)
+[Uso de la consola](./docs/uso_consola.md)| en el archivo se describen los principales comandos usados en git bash
+[Repositorio local](./docs/repositorio_local.md)| en este archivo se describe como se crea un repositorio local y los comandos necesarios
+[Repositorio remoto](./docs/repositorio_remoto.md)|aqui se encuentra descrito como crear un repositorio remoto y luego sincronizarlo con el local para luego hacer commits y hacer git push
 
 
 
