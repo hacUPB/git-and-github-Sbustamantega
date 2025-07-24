@@ -1,0 +1,165 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.pyl
+
+# C extensions
+*.so
+*.dylib
+*.dll
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.manifest
+*.spec
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.pytest_cache/
+htmlcov/
+.coverage.*
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller / cx_Freeze
+*.log
+build/
+dist/
+__pyinstaller__/
+.venv/
+.tox/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# environments
+.env
+.flaskenv
+.venv
+venv/
+env/
+venvs/
+.venvs/
+*/venv/
+*/env/
+*.env
+*.env.*
+.DS_Store # macOS specific
+
+# IDEs and editors
+.project
+.idea/                                    # IntelliJ IDEA / PyCharm / WebStorm
+*.iml
+*.ipr
+*.iws
+.vscode/                                  # VS Code
+.vscode-test/
+.history/
+*.sublime-project
+*.sublime-workspace
+.metadata
+.settings/
+*.komodoproject
+nbproject/                              # NetBeans
+.c9/                                    # Cloud9
+*.tmproj                                # TextMate
+*.xcode/
+*.code-workspace
+*.esproj
+
+# macOS
+.DS_Store
+.Trashes
+._*
+.Spotlight-V100
+.TemporaryItems
+.fseventsd
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor-specific
+*~
+*.swp
+.netrwhist
+.bash_history
+.lesshst
+.mysql_history
+.psql_history
+.viminfo
+.vscode
+.vscode-test
+.vscode-oss
+
+# Miscellaneous
+*.log
+*.sqlite3
+*.db
+tmp/
+temp/
+media/
+static/
+uploaded/
+
+# Specific to Python web frameworks
+# Django
+db.sqlite3
+media/
+static/
+*.log
+
+# Flask
+instance/
+
+# virtualenv
+.virtualenv
+venv
+
+# pytest
+.pytest_cache/
+.coverage
+
+# mypy
+.mypy_cache/
+
+# ruff
+.ruff_cache/
+
+# poetry
+.venv
+
+# Pipenv
+.venv
+
+# Conda
+.conda
+.envs
