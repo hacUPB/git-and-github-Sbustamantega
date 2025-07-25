@@ -5,14 +5,61 @@ Santiago Bustamante
 
 ID:000415198
 
-## contenido:
 
+
+## contenido:
+en este repositorio se encuentra varios archivos en los cuales se muestra y se explica lo que hemos visto en clase, utilizando el desarrollador de git bash y todos los comandos necesarios para 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ## Documentos
 | Enlace | Descripcion |
 ---------|--------------
 [Uso de la consola](./docs/uso_consola.md)| en el archivo se describen los principales comandos usados en git bash
 [Repositorio local](./docs/repositorio_local.md)| en este archivo se describe como se crea un repositorio local y los comandos necesarios
 [Repositorio remoto](./docs/repositorio_remoto.md)|aqui se encuentra descrito como crear un repositorio remoto y luego sincronizarlo con el local para luego hacer commits y hacer git push
 
+
+
+
+
+## capturas de pantalla
+
+creacion de los archivos en docs:
+
+![texto](<imagenes\Captura de pantalla 2025-07-24 174209.jpg>)
+
+realizando commit del archivo readme:
+
+![alt text](<imagenes/Captura de pantalla 2025-07-24 183626.png>)
+
+creacion del archivo .gitignore
+![alt text](imagenes\image.png)
+
+haciendo push para sincronizar el repositorio remoto
+![alt text](imagenes\image-1.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -133,3 +180,6 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+
+[def]: Captura%20de%20pantalla%202025-07-24%20174209.jpg
