@@ -8,7 +8,7 @@ ID:000415198
 
 
 ## contenido:
-en este repositorio se encuentra varios archivos en los cuales se muestra y se explica lo que hemos visto en clase, utilizando el desarrollador de git bash y todos los comandos necesarios para 
+en este repositorio se encuentra varios archivos en los cuales se muestra y se explica lo que hemos visto en clase, utilizando el desarrollador de git bash y todos los comandos necesarios para usar la consola, usar los comandos y crear repositorios tanto locales como repositorios en la nube con github.
 
 
 
