@@ -1,3 +1,109 @@
+
+# Bitacora
+
+Santiago Bustamante
+
+ID:000415198
+
+
+
+## contenido:
+en este repositorio se encuentra varios archivos en los cuales se muestra y se explica lo que hemos visto en clase, utilizando el desarrollador de git bash y todos los comandos necesarios para usar la consola, usar los comandos y crear repositorios tanto locales como repositorios en la nube con github.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ## Documentos
+| Enlace | Descripcion |
+---------|--------------
+[Uso de la consola](./docs/uso_consola.md)| en el archivo se describen los principales comandos usados en git bash
+[Repositorio local](./docs/repositorio_local.md)| en este archivo se describe como se crea un repositorio local y los comandos necesarios
+[Repositorio remoto](./docs/repositorio_remoto.md)|aqui se encuentra descrito como crear un repositorio remoto y luego sincronizarlo con el local para luego hacer commits y hacer git push
+
+## como clonar el repositorio?
+
+para esto primero hay que conseguir el link del repositorio que se busca clonar, cuando tenemos el link, en este caso seria "https://github.com/hacUPB/git-and-github-Sbustamantega.git" y luego hay que dirigirse a la consola de git y usar el comando git clone seguido del link del repositorio, con esto ya quedará el repositorio copiado localmente, ahora cada que se hagan cambios puede hacerse git push para sincronizarse o git pull para recuperar lo que hay en la nube.
+
+
+
+## capturas de pantalla
+
+creacion de los archivos en docs:
+<br>
+![texto](<imagenes/Captura de pantalla 2025-07-24 174209.jpg>)
+
+realizando commit del archivo readme:
+<br>
+![alt text](<imagenes/Captura de pantalla 2025-07-24 183626.png>)
+<br>
+<br>
+creacion del archivo .gitignore:
+<br>
+![alt text](<imagenes/image.png>)
+<br>
+<br>
+haciendo push para sincronizar el repositorio remoto:
+<br>
+![alt text](<imagenes/image-1.png>)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
@@ -80,3 +186,6 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+
+[def]: Captura%20de%20pantalla%202025-07-24%20174209.jpg
