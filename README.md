@@ -43,7 +43,7 @@ para esto primero hay que conseguir el link del repositorio que se busca clonar,
 
 creacion de los archivos en docs:
 <br>
-![texto](<imagenes\Captura de pantalla 2025-07-24 174209.jpg>)
+![texto](<imagenes/Captura de pantalla 2025-07-24 174209.jpg>)
 
 realizando commit del archivo readme:
 <br>
