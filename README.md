@@ -33,24 +33,30 @@ en este repositorio se encuentra varios archivos en los cuales se muestra y se e
 [Repositorio local](./docs/repositorio_local.md)| en este archivo se describe como se crea un repositorio local y los comandos necesarios
 [Repositorio remoto](./docs/repositorio_remoto.md)|aqui se encuentra descrito como crear un repositorio remoto y luego sincronizarlo con el local para luego hacer commits y hacer git push
 
+## como clonar el repositorio?
 
+para esto primero hay que conseguir el link del repositorio que se busca clonar, cuando tenemos el link, en este caso seria "https://github.com/hacUPB/git-and-github-Sbustamantega.git" y luego hay que dirigirse a la consola de git y usar el comando git clone seguido del link del repositorio, con esto ya quedará el repositorio copiado localmente, ahora cada que se hagan cambios puede hacerse git push para sincronizarse o git pull para recuperar lo que hay en la nube.
 
 
 
 ## capturas de pantalla
 
 creacion de los archivos en docs:
-
+<br>
 ![texto](<imagenes\Captura de pantalla 2025-07-24 174209.jpg>)
 
 realizando commit del archivo readme:
-
+<br>
 ![alt text](<imagenes/Captura de pantalla 2025-07-24 183626.png>)
-
-creacion del archivo .gitignore
+<br>
+<br>
+creacion del archivo .gitignore:
+<br>
 ![alt text](imagenes\image.png)
-
-haciendo push para sincronizar el repositorio remoto
+<br>
+<br>
+haciendo push para sincronizar el repositorio remoto:
+<br>
 ![alt text](imagenes\image-1.png)
 <br>
 <br>
