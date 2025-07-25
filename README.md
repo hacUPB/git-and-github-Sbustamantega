@@ -52,12 +52,12 @@ realizando commit del archivo readme:
 <br>
 creacion del archivo .gitignore:
 <br>
-![alt text](imagenes\image.png)
+![alt text](<imagenes/image.png>)
 <br>
 <br>
 haciendo push para sincronizar el repositorio remoto:
 <br>
-![alt text](imagenes\image-1.png)
+![alt text](<imagenes/image-1.png>)
 <br>
 <br>
 <br>
